@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.80d8b478.chunk.css",
+    "main.js": "/static/js/main.18df4e92.chunk.js",
+    "main.js.map": "/static/js/main.18df4e92.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.7e4cfd35.js",
+    "runtime-main.js.map": "/static/js/runtime-main.7e4cfd35.js.map",
+    "static/css/2.41d165a9.chunk.css": "/static/css/2.41d165a9.chunk.css",
+    "static/js/2.30928416.chunk.js": "/static/js/2.30928416.chunk.js",
+    "static/js/2.30928416.chunk.js.map": "/static/js/2.30928416.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.41d165a9.chunk.css.map": "/static/css/2.41d165a9.chunk.css.map",
+    "static/css/main.80d8b478.chunk.css.map": "/static/css/main.80d8b478.chunk.css.map",
+    "static/js/2.30928416.chunk.js.LICENSE.txt": "/static/js/2.30928416.chunk.js.LICENSE.txt",
+    "static/media/App.scss": "/static/media/Aileron-Thin.37c7d157.otf",
+    "static/media/allo-cine.791b9473.png": "/static/media/allo-cine.791b9473.png",
+    "static/media/coderillustrate.3d0da3b0.jpg": "/static/media/coderillustrate.3d0da3b0.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7e4cfd35.js",
+    "static/css/2.41d165a9.chunk.css",
+    "static/js/2.30928416.chunk.js",
+    "static/css/main.80d8b478.chunk.css",
+    "static/js/main.18df4e92.chunk.js"
+  ]
+}
